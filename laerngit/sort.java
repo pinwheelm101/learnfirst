@@ -21,4 +21,5 @@ public class BubbleSort {
  　　　　　　System.out.print(num+" ");
  　　　　} 
 　　}
- }
+ }霞編匯和
+ 
