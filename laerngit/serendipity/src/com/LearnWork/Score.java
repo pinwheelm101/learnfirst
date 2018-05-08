@@ -2,11 +2,12 @@ package com.LearnWork;
 import java.util.*;
 public class Score {
 	public static double avg(double[] array) {
-		int sum=0;
+		double sum=0;
 		for(double a:array) {
 			sum+=a;
 		}
-		int avgs=sum/array.length;
+		double  avgs=sum/array.length;
+	
 			
 		return avgs;
 	}
